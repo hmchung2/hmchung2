@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 클릭
+## About me
 
 [포트폴리오](https://hmchung2.github.io/portfolio/)
 

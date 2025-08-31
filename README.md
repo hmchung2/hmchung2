@@ -1,82 +1,47 @@
-# 👋 Hi, I'm Haemyung Jung  
+# 👋 정해명 | Backend Engineer  
 
-🚀 **Backend Engineer | Real-time Trading Systems | Financial IT**  
-
-I specialize in building **low-latency, high-reliability backend systems** for financial services.  
-My focus is on **trading platforms, event-driven architecture, and large-scale data processing**.  
-
----
-
-## 🛠️ Tech Stack  
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+안녕하세요.  
+저는 **MSA 기반 백엔드 개발**을 좋아하는 개발자 정해명입니다.  
+실시간 처리와 안정성에 중점을 두고, 금융 및 트레이딩 시스템 같은 **대규모 분산 서비스**를 설계하고 운영한 경험이 있습니다.  
+새로운 기술을 빠르게 습득하고, 문제를 구조적으로 해결하는 데 강점을 가지고 있습니다.  
 
 ---
 
-## 💡 What I Do  
+## 🛠️ 기술 스택  
 
-- ⚡ **Real-time Trading Systems**  
-  Designed and developed low-latency trading backends including **order, execution, and clearing services**.  
-  Built **event-driven MSA architecture** using Kafka + Redis to ensure **high availability and fault tolerance**.  
-
-- 📊 **Market Data & Streaming**  
-  Implemented **real-time chart and ticker services** with optimized caching.  
-  Achieved **30% faster response time** on trading chart queries, directly improving user trading experience.  
-
-- 🔄 **Settlement & Risk Management**  
-  Automated **end-of-day clearing and balance update pipelines**.  
-  Developed processes equivalent to **auto-liquidation logic** for stable account/position management.  
-
-- 🧪 **Simulation & Data Pipeline**  
-  Built **ETL pipelines** for trading data preprocessing and feature engineering.  
-  Applied **predictive models (LSTM, ML)** for anomaly detection & strategy simulation.  
-
-- ☁️ **Cloud & Ops**  
-  Automated deployments with **AWS, Docker, Kubernetes, Jenkins, GitLab CI**.  
-  Experienced in **distributed monitoring** with Grafana, Kibana, ArgoCD.  
+- **언어**: Java, Kotlin, Python, Typescript  
+- **프레임워크**: Spring Boot, WebFlux
+- **아키텍처**: MSA, Event-driven (Kafka, Redis)  
+- **인프라**: AWS, Docker, Kubernetes, Jenkins, GitLab CI  
+- **데이터베이스**: MySQL, Oracle, MongoDB  
+- **데이터 처리**: ETL Pipeline, Batch Processing  
 
 ---
 
-## 🏆 Highlights  
+## 💡 주요 경험  
 
-- 🥇 **Digital Innovation Award (2024)** – Automated trading spec generator → cut overseas project delivery by 4 months.  
-- 📈 Scaled event-driven trading services → handled **100K+ concurrent sessions** with Kafka-based architecture.  
-- 📊 Designed **ETL + batch pipelines** → improved trading data quality & enabled simulation/strategy backtesting.  
-- 🌍 Experience across **securities (MTS), clearing/settlement, financial backoffice, and AI-based forecasting**.  
+- 해외 증권 MTS 서버 및 API 개발  
+- 실시간 차트·알림 서비스 구축 → 조회 속도 30% 개선  
+- Kafka·Redis 기반 대규모 이벤트 스트리밍 처리  
+- ETL 서버 단독 구축 및 파생 데이터 로직 설계  
+- 금융 정산·배치 자동화 및 CI/CD 환경 고도화  
 
 ---
 
-## 📌 Featured Projects  
+## 📌 대표 프로젝트  
 
 - **Trading-Chart-Service** 🕒  
-  Real-time trading chart & ticker system built with **Spring Boot, Kafka, Redis**.  
+  실시간 시세 및 차트 스트리밍 서비스 (Spring Boot, Kafka, Redis)  
 
 - **Order-Execution-Engine (PoC)** ⚡  
-  Prototype low-latency trading engine with **Kotlin + MySQL** for order intake & execution flow.  
+  주문·체결 엔진 아키텍처 설계 및 저지연 처리 구현  
 
 - **Financial-ETL-Pipeline** 🔄  
-  ETL server for trading data preprocessing & simulation dataset generation.  
-
-- **Billige** 🏦  
-  Blockchain-based transaction service (Java) → explored distributed ledger integration with financial services.  
+  거래 데이터 전처리 및 백테스트/시뮬레이션 데이터셋 구축  
 
 ---
 
-## 📫 Contact  
+## 📫 연락처  
 
-- 📧 Email: **[your.email@example.com]**  
-- 📝 Tech Blog: [Link here]  
-- 💼 LinkedIn: [Link here]  
-
----
-
-⭐ *“Building the backbone of next-generation trading systems with reliability, speed, and scalability.”*  
+- 이메일: [hmchung2@gmail.com] 
+- 블로그: [https://hmchung2devjava.tistory.com]  

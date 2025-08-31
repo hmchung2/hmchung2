@@ -10,7 +10,6 @@
 - **아키텍처**: MSA, Event-driven (Kafka, Redis)  
 - **인프라**: AWS, Docker, Kubernetes, Jenkins, GitLab CI  
 - **데이터베이스**: MySQL, Oracle, MongoDB  
-- **데이터 처리**: ETL Pipeline, Batch Processing  
 
 ---
 
